@@ -4,7 +4,7 @@ Please try the 2 uploaded Python files to visualize building a wall.
 
 ## Monumental-zigzag-method.py
 
-In this python script, I focused on minimizing the amount of strides. With the defined build-envelope and wall dimension this resulted in 6 strides. 
+In this python script, I focused on minimizing the amount of strides. With the defined build-envelope and wall dimension this resulted in 6 strides. I applied a zig-zag method to reduce the amount of time that the masonry robot needs to go from left to right.
 
 To run this python file, open the file in your terminal and run " python Monumental-zigzag-method.py ". This will open an interactrive pygame window, which expects user input. Every time the user presses "ENTER", one brick is added to the wall, until the wall is completely finished. 
 
